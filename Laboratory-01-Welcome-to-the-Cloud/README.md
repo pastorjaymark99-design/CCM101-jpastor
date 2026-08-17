@@ -40,5 +40,4 @@ Through this laboratory, I learned how to navigate and manage a Linux
 system, create and manage user accounts, and retrieve system information
 using standard Linux commands. I also practiced organizing files and
 directories, writing clear technical documentation in Markdown, and using
-Git and GitHub to build and maintain a version-controlled portfolio -
-skills that reflect real-world responsibilities of a cloud engineer.
+Git and GitHub to build and maintain a version-controlled portfolio.
