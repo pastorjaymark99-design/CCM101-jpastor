@@ -1,1 +1,9 @@
+# Mission 3 Reflection
 
+Among the three cloud platforms, **Google Cloud Platform (GCP)** impressed me the most because of its strong features for Artificial Intelligence, Machine Learning, and Kubernetes. I found it interesting that each platform has different strengths, even though they provide many similar cloud services. AWS, Azure, and GCP all offer services for computing, storage, databases, networking, security, and application development. They also allow businesses to scale their resources depending on their needs instead of relying only on physical infrastructure.
+
+Business requirements are important when selecting a cloud platform because not every company has the same goals, budget, or existing technology. For example, a company that already uses Microsoft products may benefit more from Azure, while a company focused on AI and Machine Learning may consider GCP. Startups may also prioritize affordability and scalability, while large companies may focus more on availability, security, and global infrastructure.
+
+Acting as a Cloud Solutions Consultant taught me that choosing a cloud provider is not simply about selecting the most popular platform. I learned that I need to understand the client's actual problems and compare the available services before making a recommendation. This activity also helped me understand how different cloud services can be combined to create a solution that fits a specific business requirement.
+
+After completing this mission, my GitHub Cloud Computing Portfolio has become more organized and informative. I added research about AWS, Azure, and GCP, compared their services, and documented recommendations for different clients. It also helped me practice writing technical information in Markdown and organizing my work into separate files. Overall, this mission improved both my cloud computing knowledge and my ability to evaluate technology based on real-world business needs.
