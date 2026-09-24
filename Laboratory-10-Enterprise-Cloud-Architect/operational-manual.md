@@ -1,12 +1,12 @@
 # CCM101 - Cloud Computing
 ## Enterprise Cloud Architect – Operational Manual
 
-**Project:** Secure Multi-Tier Web Application
-**Application Stack:** WordPress + MySQL
-**Prepared by:** Apiaza, Keyya Daniela M. | Joanino, Denmark P. | Pastor, Jay Mark
-**Section:** BSIT Block 4I
-**Instructor:** Jenkielyn C. Torres
-**Date:** September 2026
+**Project:** Secure Multi-Tier Web Application<br>
+**Application Stack:** WordPress + MySQL<br>
+**Prepared by:** Apiaza, Keyya Daniela M. | Joanino, Denmark P. | Pastor, Jay Mark<br>
+**Section:** BSIT Block 4I<br>
+**Instructor:** Jenkielyn C. Torres<br>
+**Date:** September 2026<br>
 
 ---
 
