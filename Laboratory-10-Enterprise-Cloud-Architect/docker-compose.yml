@@ -1,0 +1,40 @@
+services:
+  db:
+    image: mysql:8.0
+    container_name: wp_mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: jmps29
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wpuser
+      MYSQL_PASSWORD: jmps2911
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - wp_network
+
+  wordpress:
+    image: wordpress:latest
+    container_name: wp_app
+    restart: unless-stopped
+    depends_on:
+      - db
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_DB_USER: wpuser
+      WORDPRESS_DB_PASSWORD: jmps2911
+    ports:
+      - "80:80"
+    volumes:
+      - wordpress_data:/var/www/html
+    networks:
+      - wp_network
+
+volumes:
+  mysql_data:
+  wordpress_data:
+
+networks:
+  wp_network:
+    driver: bridge
