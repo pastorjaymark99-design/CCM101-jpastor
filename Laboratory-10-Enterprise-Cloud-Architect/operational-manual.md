@@ -3,7 +3,7 @@
 
 **Project:** Secure Multi-Tier Web Application<br>
 **Application Stack:** WordPress + MySQL<br>
-**Prepared by:** Apiaza, Keyya Daniela M. | Joanino, Denmark P. | Pastor, Jay Mark<br>
+**Prepared by:** Apiaza, Keyya Daniela M. | Joanino, Denmark P. | Pastor, Jay Mark | Soliven, Yvonne B. | Jainar, Apol Jeffrey G.<br>
 **Section:** BSIT Block 4I<br>
 **Instructor:** Jenkielyn C. Torres<br>
 **Date:** September 2026<br>
